@@ -1,6 +1,6 @@
 # 🌟 Ruby's Adventure
 
-![Game Screenshot](image.png)
+![Game Screenshot](屏幕截图 2025-04-06 222653.png)
 
 > A lightweight 2D adventure game made with Unity — Ruby's Adventure!
 
